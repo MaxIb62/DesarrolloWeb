@@ -1,3 +1,12 @@
+
 html{
     font-family: 'Tulpen One', cursive;
+    font-size: 16px;
+    background-color: aqua;
+    color: black;
+}
+
+html{
+    scroll-behavior: smooth;
+    font-size: 32px;
 }
