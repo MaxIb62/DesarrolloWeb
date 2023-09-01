@@ -1,0 +1,35 @@
+html{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    background-color: rgb(42, 42, 42);
+    color: rgb(203, 203, 203);
+}
+
+img{
+    border-style:ridge;
+    border-radius: 50%;
+    max-width: 100%;   
+}
+
+iframe{
+    max-width: 100%; 
+}
+
+table{
+    width: 100%; 
+}
+
+a{
+    color: rgb(255, 255, 255);
+}
+:hover{
+    color: rgb(3, 158, 215);
+
+}
+hr{
+    border-style:double;
+    color: rgb(255, 185, 99);
+}
+h2{
+    text-align: center;
+}
